@@ -4,12 +4,12 @@
 
 [csdn博客](https://blog.csdn.net/fengzhiyan12)
 
-[JavaScript 基础]()
-[Vue 基础]()
-[C 语言]()
+[JavaScript 基础](./JavaScript.html)
+[Vue 基础](./vue.html)
+[C 语言](./C_code.html)
 
 
 
 
 
-<p>@2018 阿肆 . 上海  /  2020  </p>
+<font color="#999">@2018 阿肆 . 上海  /  2020  </font>
