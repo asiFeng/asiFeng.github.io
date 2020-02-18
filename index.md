@@ -8,6 +8,8 @@
 [Vue 基础](./vue.html)
 [C 语言](./C_code.html)
 
+阿肆的csdn博客: https://blog.csdn.net/fengzhiyan123 （早期不成熟期间的记录）
+
 
 
 
