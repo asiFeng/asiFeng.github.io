@@ -12,7 +12,9 @@
 - [C 语言](./page/C_code.html)
 
 
-#### [old blogs](https://github.com/asiFeng/Blog)
+#### old blog
+
+- [走你~](https://github.com/asiFeng/Blog)
 
 
 
