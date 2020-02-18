@@ -5,11 +5,11 @@
 
 :dolphin:    [csdn博客](https://blog.csdn.net/fengzhiyan123)
 
-:lemon:    [JavaScript 基础](./JavaScript.html)
+:lemon:    [JavaScript 基础](./page/JavaScript.html)
 
-:snowflake:    [Vue 基础](./vue.html)
+:snowflake:    [Vue 基础](./page/vue.html)
 
-:tangerine:    [C 语言](./C_code.html)
+:tangerine:    [C 语言](./page/C_code.html)
 
 
 
