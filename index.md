@@ -16,6 +16,10 @@
 
 - [走你~](https://github.com/asiFeng/Blog)
 
+### Books
+JavaScript语言精粹
+Node.js实战
+
 
 
 
